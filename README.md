@@ -6,5 +6,6 @@ there is undo/redo and search/replace functionality implemented along with multi
 
 to run just enter:
 >make
+
 >./editor <insert filename here>
 
