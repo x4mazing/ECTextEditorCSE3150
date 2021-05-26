@@ -1,8 +1,8 @@
 # ECTextEditorCSE3150 C++ MVC, Observer, Command
 
-This was a school project that was assigned by my professor.
-The purpose was the implement MVC using a modification of a simple C text editor called Kilo
-there is File I/O, undo/redo, and search/replace functionality implemented along with multipage navigation.
+This was a school project that was assigned by my professor.\n
+The purpose was the implement MVC using a modification of a simple C text editor called Kilo.\n
+there is File I/O, undo/redo, and search/replace functionality implemented along with multipage navigation.\n\n
 
 to run just enter:
 >make
